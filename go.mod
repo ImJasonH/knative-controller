@@ -1,4 +1,4 @@
-module knative.dev/sample-controller
+module github.com/imjasonh/task-controller
 
 go 1.14
 
